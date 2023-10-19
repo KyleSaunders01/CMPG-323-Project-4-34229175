@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SearchText&Sequence_45",
+        "SearchName1&Sequence_60",
+        "SearchName1&Sequence_71",
+        "SearchName&Sequence_71",
+        "SearchName&Sequence_33",
+        "dt_WebFormData&Sequence_69",
+        "dt_WebFormData&Sequence_73",
+        "dt_WebFormData&Sequence_70",
+        "dt_WebFormData&Sequence_66",
+        "dt_WebFormData1&Sequence_63",
+        "dt_WebFormData&Sequence_63",
+        "dt_WebFormData&Sequence_59",
+        "dt_WebFormData1&Sequence_53",
+        "dt_WebFormData&Sequence_46",
+        "dt_WebFormData&Sequence_43",
+        "dt_WebFormData&Sequence_30",
+        "dt_WebFormData&Sequence_31",
+        "dt_WebFormData&Sequence_32"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
